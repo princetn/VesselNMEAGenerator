@@ -1,0 +1,66 @@
+﻿  Anemometer.cpp
+  Compass.cpp
+  Date.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Date.cpp(76,74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Event.cpp
+  Format.cpp
+  GPS.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GPS.cpp(65,53): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GPS.cpp(65,21): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GPS.cpp(69,38): warning C4101: '_queue_lock': unreferenced local variable
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GPS.cpp(212,23): warning C4018: '<': signed/unsigned mismatch
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GPS.cpp(338,34): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GPS.cpp(362,34): warning C4101: '_queue_lock': unreferenced local variable
+  GPSCoordinates.cpp
+  GYRO.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(45,53): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(45,21): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(49,38): warning C4101: '_mtx': unreferenced local variable
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(69,34): warning C4101: '_mtx': unreferenced local variable
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(167,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(168,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(169,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(206,34): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Heave.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Heave.cpp(54,34): warning C4101: '_mtx': unreferenced local variable
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Heave.cpp(72,51): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Heave.cpp(72,21): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Heave.cpp(76,38): warning C4101: '_mtx': unreferenced local variable
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Heave.cpp(98,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Heave.cpp(99,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Heave.cpp(101,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Heave.cpp(102,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Heave.cpp(103,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Heave.cpp(105,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Heave.cpp(247,34): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  NMEA.cpp
+  Object.cpp
+  Satellite.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Satellite.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+  SatelliteInfo.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\SatelliteInfo.cpp(64,9): warning C4101: 'nTime': unreferenced local variable
+  Sonar.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Sonar.cpp(91,31): warning C4101: '_mtx': unreferenced local variable
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Sonar.cpp(115,50): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Sonar.cpp(115,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Sonar.cpp(119,32): warning C4101: '_mtx': unreferenced local variable
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Sonar.cpp(149,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Source.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Source.cpp(51,164): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Source.cpp(52,164): warning C4305: 'argument': truncation from 'double' to 'float'
+  Timer.cpp
+  UdpServer.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\UdpServer.cpp(71,74): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1813 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NMEA_Generator.vcxproj -> D:\GIT\NMEA_Simulator\NMEA_Generator\x64\Release\NMEA_Generator.exe

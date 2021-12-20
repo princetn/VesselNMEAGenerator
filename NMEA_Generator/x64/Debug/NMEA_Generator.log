@@ -1,0 +1,33 @@
+﻿  Anemometer.cpp
+  Compass.cpp
+  Date.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Date.cpp(76,74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Event.cpp
+  Format.cpp
+  GPS.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GPS.cpp(70,38): warning C4101: '_queue_lock': unreferenced local variable
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GPS.cpp(213,23): warning C4018: '<': signed/unsigned mismatch
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GPS.cpp(339,34): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GPS.cpp(363,34): warning C4101: '_queue_lock': unreferenced local variable
+  GPSCoordinates.cpp
+  GYRO.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(48,38): warning C4101: '_mtx': unreferenced local variable
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(68,34): warning C4101: '_mtx': unreferenced local variable
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(166,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(167,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(168,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\GYRO.cpp(205,34): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Heave.cpp
+  NMEA.cpp
+  Object.cpp
+  Satellite.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Satellite.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+  SatelliteInfo.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\SatelliteInfo.cpp(64,9): warning C4101: 'nTime': unreferenced local variable
+  Source.cpp
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Source.cpp(26,164): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GIT\NMEA_Simulator\NMEA_Generator\NMEA_Generator\Source.cpp(27,164): warning C4305: 'argument': truncation from 'double' to 'float'
+  Timer.cpp
+  UdpServer.cpp
+  Generating Code...
+  NMEA_Generator.vcxproj -> D:\GIT\NMEA_Simulator\NMEA_Generator\x64\Debug\NMEA_Generator.exe

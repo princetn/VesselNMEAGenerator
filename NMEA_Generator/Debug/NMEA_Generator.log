@@ -1,0 +1,11 @@
+﻿  Date.cpp
+  GPS.cpp
+  GPSCoordinates.cpp
+  NMEA.cpp
+  Object.cpp
+  Satellite.cpp
+  SatelliteInfo.cpp
+  Source.cpp
+  Timer.cpp
+  Generating Code...
+  NMEA_Generator.vcxproj -> D:\GIT\NMEA_Simulator\NMEA_Generator\Debug\NMEA_Generator.exe
